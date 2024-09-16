@@ -7,6 +7,8 @@ Gambar di bawah ini akan tampil saat menekan tombol Your Profile
 
 ![1726111688837](image/README/1726111688837.png)
 
-
 Gambar di bawah ini akan tampil saat menekan Settings
 ![1726112005867](image/README/1726112005867.png)
+
+Gambar dibawah ini ada di halaman blog yang bisa melakukan create, edit dan delete serta melihat semua postingannya
+![1726455033254](image/README/1726455033254.png)
