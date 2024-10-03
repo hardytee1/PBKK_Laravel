@@ -16,9 +16,7 @@
 
                 <div class="w-3/4">
                     <h2 class="text-2xl font-bold text-gray-900">{{ $article->title }}</h2>
-                    <p class="text-sm text-gray-600">
-                        {{ $article->created_at->diffForHumans() }}
-                    </p>
+                    
 
                     <p class="mt-2 text-gray-700">
                         {{ Str::limit($article->description, 150) }}
